@@ -1,6 +1,7 @@
 # Clips
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+Check the project running on: https://clips-ebon-iota.vercel.app/
 
 ## Development server
 
